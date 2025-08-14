@@ -1,0 +1,15 @@
+name: TwoFADialog
+main: com.forkthus.twofadialog.TwoFactorPlugin
+version: 1.0.0
+api-version: '1.21'
+
+commands:
+  2fa:
+    description: Two-factor authentication management commands
+    usage: /2fa <remove|reload> [player]
+    permission: twofadialog.admin
+    
+permissions:
+  twofadialog.admin:
+    description: Allows use of 2FA admin commands
+    default: op
