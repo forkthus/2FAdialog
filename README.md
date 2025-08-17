@@ -4,6 +4,8 @@ A modern Bukkit/Paper plugin that enables Two-Factor Authentication (2FA) on you
 
 Instead of chat commands or anvil-based GUIs, players authenticate through native dialog panels for a smooth, intuitive flow.
 
+[SpigotMC](https://www.spigotmc.org/resources/2fa-dialog.128078/)
+
 ## Features
 
 - **TOTP authentication** - compatible with popular authenticator apps (Google Authenticator, Microsoft Authenticator, etc.)
